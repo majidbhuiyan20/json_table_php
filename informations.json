@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "roll": 101,
+        "name": "Majid Bhuiyan",
+        "department": "CSE",
+        "gender": "Male",
+        "district": "Kishoregonj"
+
+
+    },
+    {
+        "id": 2,
+        "roll": 104,
+        "name": "Toma",
+        "department": "ICE",
+        "gender": "Female",
+        "district": "Dhaka"
+
+
+    },
+    
+    
+    {
+        "id": 3,
+        "roll": 103,
+        "name": "Sourav",
+        "department": "EEE",
+        "gender": "Male",
+        "district": "Munsigonj"
+
+
+    },
+    {
+        "id": 4,
+        "roll": 102,
+        "name": "Tamim Rahman",
+        "department": "CSE",
+        "gender": "Male",
+        "district": "Kishoregonj"
+
+
+    }
+    
+    
+
+
+]
